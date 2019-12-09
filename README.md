@@ -1,0 +1,3 @@
+# Python-projects
+This is my first big python project....
+Enjoy playing poker
